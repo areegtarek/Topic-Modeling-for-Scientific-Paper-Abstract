@@ -1,6 +1,6 @@
 # Topic-Modeling-for-Scientific-Paper-Abstract
 
-![image.png](attachment:220770b8-0390-446b-9243-cb2f2d453af2.png)
+![image](https://github.com/areegtarek/Topic-Modeling-for-Scientific-Paper-Abstract/assets/46351336/d5abdb28-1f02-413e-90a1-5bb0044e9a23)
 
 Our goal is to cluster papers based on their Abstract.
 
